@@ -13,6 +13,7 @@ System.out.println("Ciao");
 System.out.println("Nomercy");
 System.out.println("Bye bye");
 System.out.println("Branch succsesfull");
+System.out.println("Tochka 4 succsesfull");
 
 }
 public void static main(){
