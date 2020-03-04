@@ -15,7 +15,8 @@ System.out.println("Bye bye");
 System.out.println("Branch succsesfull");
 System.out.println("Tochka 4 succsesfull");
 System.out.println("Tochka 43 unsec");
-
+System.out.printlasdasdadasdas
+sadadsada
 }
 public void static main(){
 main (branch);
